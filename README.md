@@ -1,0 +1,2 @@
+# BIC
+Biologically Inspired Computation
